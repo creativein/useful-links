@@ -7,3 +7,5 @@ http://elasticlunr.com/
 * Learning Gradle build tools 
   > Course Link: https://www.udacity.com/course/gradle-for-android-and-java--ud867
   > Course Excersise Link: https://github.com/udacity/ud867.git
+* Mongo Installation and start
+  > https://blog.ajduke.in/2013/04/10/install-setup-and-start-mongodb-on-windows/
