@@ -12,3 +12,5 @@ http://elasticlunr.com/
   > https://blog.ajduke.in/2013/04/10/install-setup-and-start-mongodb-on-windows/
 * To check what npm packages are installed globally on your dev box use this command
   > npm list -g --depth=0
+* Vue methods this issue explaination
+  > https://github.com/vuejs-templates/browserify-simple/issues/6
