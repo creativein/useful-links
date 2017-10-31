@@ -14,3 +14,5 @@ http://elasticlunr.com/
   > npm list -g --depth=0
 * Vue methods this issue explaination
   > https://github.com/vuejs-templates/browserify-simple/issues/6
+* Client side accessibility error scanner.
+  > https://github.com/github/accessibilityjs
