@@ -16,3 +16,9 @@ http://elasticlunr.com/
   > https://github.com/vuejs-templates/browserify-simple/issues/6
 * Client side accessibility error scanner.
   > https://github.com/github/accessibilityjs
+* MQTT-  Message Queue Telemetry Transport
+  >  Facebook using MQTT : https://www.ibm.com/developerworks/community/blogs/mobileblog/entry/why_facebook_is_using_mqtt_on_mobile?lang=en
+  
+  > https://www.ibm.com/developerworks/community/blogs/5things/entry/5_things_to_know_about_mqtt_the_protocol_for_internet_of_things?lang=en
+  
+  It is a protocol similar to REST Protocol form communication which derives low power and higly efficient.
