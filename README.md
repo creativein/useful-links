@@ -22,3 +22,6 @@ http://elasticlunr.com/
   > https://www.ibm.com/developerworks/community/blogs/5things/entry/5_things_to_know_about_mqtt_the_protocol_for_internet_of_things?lang=en
   
   It is a protocol similar to REST Protocol form communication which derives low power and higly efficient.
+  
+  Javascript Prototype Insight
+  > https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29
