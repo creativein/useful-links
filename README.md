@@ -25,3 +25,6 @@ http://elasticlunr.com/
   
   Javascript Prototype Insight
   > https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29
+  
+  Angular Understanding Module
+  > https://www.pluralsight.com/guides/front-end-javascript/angular-js-modules-and-providers
