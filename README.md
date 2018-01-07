@@ -28,3 +28,6 @@ http://elasticlunr.com/
   
   Angular Understanding Module
   > https://www.pluralsight.com/guides/front-end-javascript/angular-js-modules-and-providers
+
+  Servless Offline 
+  > https://medium.com/a-man-with-no-server/running-aws-lambda-and-api-gateway-locally-serverless-offline-3c64b3e54772
