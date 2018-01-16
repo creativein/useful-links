@@ -31,3 +31,9 @@ http://elasticlunr.com/
 
   Servless Offline 
   > https://medium.com/a-man-with-no-server/running-aws-lambda-and-api-gateway-locally-serverless-offline-3c64b3e54772
+
+* Modern Day Front End Tech Blog 
+ > https://techblog.kenzan.com/modern-day-front-end-development-stack/
+ 
+* Angular package format spec
+ > https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview
