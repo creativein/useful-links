@@ -35,5 +35,8 @@ http://elasticlunr.com/
 * Modern Day Front End Tech Blog 
  > https://techblog.kenzan.com/modern-day-front-end-development-stack/
  
-* Angular package format spec
+* Angular 1.5 build setup 
+ > https://medium.com/@narthur157/how-to-modernized-angularjs-1-5-with-es6-webpack-mocha-sass-and-components-1babb45a0381
+
+
  > https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview
