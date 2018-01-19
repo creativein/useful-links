@@ -40,3 +40,7 @@ http://elasticlunr.com/
 
 
  > https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview
+ 
+* Angular 4 Componente Library
+
+  > https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e
