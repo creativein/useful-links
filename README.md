@@ -44,3 +44,7 @@ http://elasticlunr.com/
 * Angular 4 Componente Library
 
   > https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e
+  
+* Directive Example For Height Calculation 
+
+  > https://scotch.io/tutorials/responsive-equal-height-with-angular-directive
