@@ -48,3 +48,10 @@ http://elasticlunr.com/
 * Directive Example For Height Calculation 
 
   > https://scotch.io/tutorials/responsive-equal-height-with-angular-directive
+  
+* Accessibility 
+  Radio Button Accessibility
+  > https://www.w3.org/TR/2016/WD-wai-aria-practices-1.1-20160317/examples/radio/radio.html
+  
+* SVG with Angular 5
+  > https://medium.com/@dazcyril/custom-angular-controls-with-svg-efeeb75922b
