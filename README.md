@@ -58,3 +58,8 @@ http://elasticlunr.com/
   
 * Accessible Drag Drop
   > https://dev.opera.com/articles/accessible-drag-and-drop/example.html
+  
+* Accessibility for non interactive action 
+
+  > https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
+  > https://ux.stackexchange.com/questions/80881/do-disabled-buttons-still-need-to-be-contrast-compliant-for-accessibility?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
