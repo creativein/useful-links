@@ -55,3 +55,6 @@ http://elasticlunr.com/
   
 * SVG with Angular 5
   > https://medium.com/@dazcyril/custom-angular-controls-with-svg-efeeb75922b
+  
+* Accessible Drag Drop
+  > https://dev.opera.com/articles/accessible-drag-and-drop/example.html
