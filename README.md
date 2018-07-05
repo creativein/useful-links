@@ -63,3 +63,6 @@ http://elasticlunr.com/
 
   > https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
   > https://ux.stackexchange.com/questions/80881/do-disabled-buttons-still-need-to-be-contrast-compliant-for-accessibility?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+  
+* AWS 
+  > https://medium.com/@lakshmanLD/lambda-proxy-vs-lambda-integration-in-aws-api-gateway-3a9397af0e6d
